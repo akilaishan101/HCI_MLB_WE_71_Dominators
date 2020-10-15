@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-07-06 12:33+0500\n"
+"PO-Revision-Date: 2020-07-06 12:42+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../inc\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:59 wpdp_settings.php:5
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tiene permisos suficientes para acceder a esta página."
+
+#: functions.php:83 wpdp_settings.php:194
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: functions.php:89
+msgid "Go Premium"
+msgstr "Hazte Premium"
+
+#: functions.php:157
+msgid "Are you sure, you want to delete this instance?"
+msgstr "¿Estás seguro de que deseas eliminar esta instancia?"
+
+#: functions.php:764 functions.php:770
+msgid "Click here for documentation about"
+msgstr "Haga clic aquí para obtener documentación sobre"
+
+#: functions_inner.php:155 wpdp_settings.php:33 wpdp_settings.php:87
+msgid "Sorry, your nonce did not verify."
+msgstr "Lo sentimos, su nonce no se verificó."
+
+#: speed_opt_template.php:12
+msgid "Sorry, Your nonce did not verified."
+msgstr "Lo sentimos, su nonce no se verificó."
+
+#: speed_opt_template.php:40
+msgid "You can boost your page loading speed by using this option."
+msgstr ""
+"Puede aumentar la velocidad de carga de su página utilizando esta opción."
+
+#: speed_opt_template.php:40
+msgid ""
+"If you understand this feature, simply copy/paste one URL per line to allow "
+"scripts and styles by this plugin on specific pages."
+msgstr ""
+"Si comprende esta característica, simplemente copie / pegue una URL por "
+"línea para permitir scripts y estilos mediante este complemento en páginas "
+"específicas."
+
+#: speed_opt_template.php:40
+msgid "It will make your web pages load faster."
+msgstr "Hará que sus páginas web se carguen más rápido."
+
+#: speed_opt_template.php:40
+msgid ""
+"You may demand same features from other plugin developers as well, together "
+"we can improve the quality of work."
+msgstr ""
+"También puede exigir las mismas características a otros desarrolladores de "
+"complementos, juntos podemos mejorar la calidad del trabajo."
+
+#: speed_opt_template.php:40
+msgid "Code is poetry."
+msgstr "El código es poesía."
+
+#: speed_opt_template.php:48
+msgid ""
+"Leave empty to allow scripts on all pages. One URL per line to use ALLOW "
+"ONLY feature."
+msgstr ""
+"Deje en blanco para permitir secuencias de comandos en todas las páginas. "
+"Una URL por línea para usar la función PERMITIR SOLAMENTE."
+
+#: speed_opt_template.php:51
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: speed_opt_template.php:57
+msgid "By default, WordPress does not handle the scripts like this."
+msgstr "Por defecto, WordPress no maneja los scripts como este."
+
+#: speed_opt_template.php:57
+msgid ""
+"I appreciate my team and the plugin users which continuously are "
+"contributing to this plugin with new ideas."
+msgstr ""
+"Agradezco a mi equipo y a los usuarios del complemento que continuamente "
+"contribuyen a este complemento con nuevas ideas."
+
+#: speed_opt_template.php:57
+msgid ""
+"So, in case you don't get this feature in other plugins or themes, do not "
+"blame anybody."
+msgstr ""
+"Por lo tanto, en caso de que no obtenga esta función en otros complementos o "
+"temas, no culpe a nadie."
+
+#: speed_opt_template.php:57
+msgid "As speed optimization should be the last step after development phase."
+msgstr ""
+"Como la optimización de la velocidad debería ser el último paso después de "
+"la fase de desarrollo."
+
+#: speed_opt_template.php:57
+msgid "So here we are."
+msgstr "Aqui estamos."
+
+#: speed_opt_template.php:57
+msgid ""
+"In case you need this feature or any other plugin or your existing websites, "
+"let us know."
+msgstr ""
+"En caso de que necesite esta función o cualquier otro complemento o sus "
+"sitios web existentes, infórmenos."
+
+#: wpdp_settings.php:189
+msgid "Click here to download pro version"
+msgstr "Haga clic aquí para descargar la versión pro"
+
+#: wpdp_settings.php:189
+msgid "Already a Pro Member?"
+msgstr "¿Ya eres miembro profesional?"
+
+#: wpdp_settings.php:194
+msgid "Pro"
+msgstr "Pro"
+
+#: wpdp_settings.php:200
+msgid "Datepicker"
+msgstr "Selector de fechas"
+
+#: wpdp_settings.php:201
+msgid "Speed Optimization"
+msgstr "Optimización de velocidad"
+
+#: wpdp_settings.php:213
+msgid "Success!"
+msgstr "¡Éxito!"
+
+#: wpdp_settings.php:213
+msgid "Settings are updated successfully."
+msgstr "La configuración se actualizó correctamente."
+
+#: wpdp_settings.php:223
+msgid "Delete"
+msgstr "Eliminar"
+
+#: wpdp_settings.php:230
+msgid "How it works?"
+msgstr "¿Cómo funciona?"
+
+#: wpdp_settings.php:232
+msgid "Code Generator"
+msgstr "Generador de códigos"
+
+#: wpdp_settings.php:232
+msgid "Optional"
+msgstr "Opcional"
+
+#: wpdp_settings.php:279
+msgid "Insert the output text below and glue with comma for next."
+msgstr ""
+"Inserta el texto de salida a continuación y pégalo con una coma para el "
+"siguiente."
+
+#: wpdp_settings.php:284
+msgid "Video Tutorials"
+msgstr "Tutoriales en vídeo"
+
+#: wpdp_settings.php:302
+msgid "Enter"
+msgstr "Entrar"
+
+#: wpdp_settings.php:302
+msgid "selector"
+msgstr "selector"
+
+#: wpdp_settings.php:304
+msgid "You can enter multiple selectors as CSV"
+msgstr "Puede ingresar múltiples selectores como CSV"
+
+#: wpdp_settings.php:304
+msgid "Comma Separated Values"
+msgstr "Valores Separados por Comas"
+
+#: wpdp_settings.php:311
+msgid "Sample"
+msgstr "Muestra"
+
+#: wpdp_settings.php:319
+msgid "Select Language"
+msgstr "Seleccione el idioma"
+
+#: wpdp_settings.php:339
+msgid "Enable for backend (wp-admin)?"
+msgstr "¿Habilitar para backend (wp-admin)?"
+
+#: wpdp_settings.php:340 wpdp_settings.php:354
+msgid "Enable"
+msgstr "Habilitar"
+
+#: wpdp_settings.php:341 wpdp_settings.php:355
+msgid "Disable"
+msgstr "Inhabilitar"
+
+#: wpdp_settings.php:342
+msgid "Will implement datepicker in wp-admin pages as well."
+msgstr "Implementará datepicker en páginas wp-admin también."
+
+#: wpdp_settings.php:346
+msgid "Make datepicker field editable or readonly?"
+msgstr "¿Hacer que el campo datepicker sea editable o de solo lectura?"
+
+#: wpdp_settings.php:347
+msgid "Read-only"
+msgstr "Solo lectura"
+
+#: wpdp_settings.php:348
+msgid "Editable"
+msgstr "Editable"
+
+#: wpdp_settings.php:353
+msgid "Weekends?"
+msgstr "Fines de semana?"
+
+#: wpdp_settings.php:356
+msgid "Will remove Saturdays & Sundays from date picker."
+msgstr "Eliminará los sábados y domingos del selector de fechas."
+
+#: wpdp_settings.php:356
+msgid "Some service businesses don't offer weekend service."
+msgstr "Algunas empresas de servicios no ofrecen servicio de fin de semana."
+
+#: wpdp_settings.php:361
+msgid "Click here for custom scripts"
+msgstr "Haga clic aquí para ver scripts personalizados"
+
+#: wpdp_settings.php:361
+msgid "Any other requirements with weekdays?"
+msgstr "¿Algún otro requisito con días laborables?"
+
+#: wpdp_settings.php:363
+msgid "Insert your custom code here for beforeShowDay"
+msgstr "Inserte su código personalizado aquí para beforeShowDay"
+
+#: wpdp_settings.php:368 wpdp_settings.php:372 wpdp_settings.php:376
+#: wpdp_settings.php:380 wpdp_settings.php:384 wpdp_settings.php:422
+msgid "e.g."
+msgstr "p.ej."
+
+#: wpdp_settings.php:368
+msgid "Need to enable first Thursday Only?"
+msgstr "¿Necesita habilitar el primer jueves solamente?"
+
+#: wpdp_settings.php:368 wpdp_settings.php:372 wpdp_settings.php:376
+#: wpdp_settings.php:380
+msgid "Video Tutorial"
+msgstr "Video Tutorial"
+
+#: wpdp_settings.php:368
+msgid "It will disable every date except first thursday of each month."
+msgstr "Deshabilitará todas las fechas excepto el primer jueves de cada mes."
+
+#: wpdp_settings.php:368 wpdp_settings.php:372 wpdp_settings.php:376
+#: wpdp_settings.php:380 wpdp_settings.php:392
+msgid "Note: It will override weekends functionality."
+msgstr "Nota: anulará la funcionalidad de los fines de semana."
+
+#: wpdp_settings.php:372
+msgid "Need to disable Sunday & Monday?"
+msgstr "¿Necesita deshabilitar los domingos y lunes?"
+
+#: wpdp_settings.php:372
+msgid "It will disable every Sunday & Monday each month."
+msgstr "Se desactivará todos los domingos y lunes de cada mes."
+
+#: wpdp_settings.php:376
+msgid "Need to disable the months July and December?"
+msgstr "¿Necesita deshabilitar los meses de julio y diciembre?"
+
+#: wpdp_settings.php:376
+msgid "It will disable the months July and December."
+msgstr "Deshabilitará los meses de julio y diciembre."
+
+#: wpdp_settings.php:380
+msgid "Need to disable 25th December for specific years?"
+msgstr "¿Necesita desactivar el 25 de diciembre por años específicos?"
+
+#: wpdp_settings.php:380
+msgid "It will disable 25th December of specific years."
+msgstr "Desactivará el 25 de diciembre de años específicos."
+
+#: wpdp_settings.php:384
+msgid "Need to disable specific days and dates together?"
+msgstr "¿Necesita deshabilitar días y fechas específicos juntos?"
+
+#: wpdp_settings.php:384
+msgid "Support Thread"
+msgstr "Hilo de soporte"
+
+#: wpdp_settings.php:392
+msgid ""
+"It will disable specific dates and weekdays together with one snippet of "
+"code."
+msgstr ""
+"Deshabilitará fechas y días de la semana específicos junto con un fragmento "
+"de código."
+
+#: wpdp_settings.php:419
+msgid "Need months in full or short?"
+msgstr "¿Necesita meses completos o cortos?"
+
+#: wpdp_settings.php:420
+msgid "Short"
+msgstr "Corto"
+
+#: wpdp_settings.php:421
+msgid "Full"
+msgstr "Completo"
+
+#: wpdp_settings.php:422
+msgid "or September?"
+msgstr "o septiembre?"
